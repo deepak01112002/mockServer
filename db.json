@@ -1,0 +1,38 @@
+{
+    "users": [
+      {
+        "id": "67a1",
+        "username": "d",
+        "email": "rwvn1.deepak.rp@gmail.com",
+        "pass": "d"
+      }
+    ],
+    "products": [
+      {
+        "title": "Mobile",
+        "img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/i/k/l/edge-50-fusion-pb300001in-motorola-original-imahywzpfd2jh9ep.jpeg?q=70",
+        "price": "150000100",
+        "id": "de3d"
+      },
+      {
+        "id": "bf77",
+        "title": "dasgasdg",
+        "img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/i/k/l/edge-50-fusion-pb300001in-motorola-original-imahywzpfd2jh9ep.jpeg?q=70",
+        "price": "2555"
+      },
+      {
+        "id": "6bd6",
+        "title": "",
+        "img": "",
+        "price": ""
+      }
+    ],
+    "cart": [
+      {
+        "id": "de3d",
+        "title": "Mobile",
+        "img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/i/k/l/edge-50-fusion-pb300001in-motorola-original-imahywzpfd2jh9ep.jpeg?q=70",
+        "price": "150000100"
+      }
+    ]
+  }
